@@ -19,3 +19,9 @@ This is a modern React project bootstrapped with [Vite](https://vitejs.dev/), of
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+
+### 2. Install Packages
+
+```bash
+npm i or npm install
