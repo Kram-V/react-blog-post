@@ -25,3 +25,10 @@ cd your-repo-name
 
 ```bash
 npm install
+```
+
+### 3. Run the Server
+
+```bash
+npm run dev
+```
