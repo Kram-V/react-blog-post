@@ -24,4 +24,4 @@ cd your-repo-name
 ### 2. Install Packages
 
 ```bash
-npm i or npm install
+npm install
