@@ -17,7 +17,7 @@ This is a modern React project bootstrapped with [Vite](https://vitejs.dev/), of
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Kram-V/react-blog-post.git
 cd your-repo-name
 ```
 
