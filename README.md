@@ -18,7 +18,7 @@ This is a modern React project bootstrapped with [Vite](https://vitejs.dev/), of
 
 ```bash
 git clone https://github.com/Kram-V/react-blog-post.git
-cd your-repo-name
+cd react-blog-post
 ```
 
 ### 2. Install Packages
